@@ -59,6 +59,7 @@ Exemplo de mensagens de commit contendo emoji:
 <small>Fonte: <a href="https://medium.com/brainny-smart-solutions/padroniza%C3%A7%C3%A3o-de-commits-com-gitmoji-ef0af535f3a4" target="_blank">Medium</a> 🇧🇷</small>
 
 Guia de emojis para cada tipo de commit:
+
 <img src="./img/gitmoji.png" width="500">
 
 | Imagem                | GMF shortcode           | Quando usar                                          |
