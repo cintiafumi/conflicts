@@ -2,17 +2,18 @@
 
 <img src="./img/version-control-amico.png" alt="Representação de árvore de controle de versionamento de uma desenvolvedora" width="300" style="display: block; margin: 0 auto;">
 
-[1. Fluxo de trabalho](#fluxo-de-trabalho)
+[1. Fluxo de trabalho](#1.-fluxo-de-trabalho)
 
-[2. Conflitos](#conflitos)
+[2. Conflitos](#2.-conflitos)
 
-[3. Dicas](#dicas)
+[3. Dicas](#3.-dicas)
 
 ---
 
-## Fluxo de trabalho
+## 1. Fluxo de trabalho
 
 <a href="https://youtu.be/w3jLJU7DT5E" target="_blank">Vídeo GitHub :octocat:</a>
+
 <small> Idioma: 🇺🇸 | Legenda: 🇧🇷</small>
 
 <img src="./img/gitflow.png" alt="git flow" width="500">
@@ -21,7 +22,21 @@
 
 ---
 
-## Conflitos
+### 1.1 Trabalhando com branchs
+
+<a href="https://youtu.be/oXMgyQt0ce0" target="_blank">Vídeo Descomplicando Branches no Git usando VS Code</a>
+
+<small> Idioma: 🇧🇷</small>
+
+<small>Fonte: Código Fonte TV 🇧🇷</small>
+
+---
+
+## 2. Conflitos
+
+## 2.1 Como resolver
+
+<a href="http://www.reprograma.com.br/meetup/assets/docs/Jun02-conflitos-no-git.pdf" target="_blank">Apresentação da Oficina</a>
 
 <img src="./img/edit-conflict.png" alt="A representation of an edit conflict" width="500">
 
@@ -29,9 +44,9 @@
 
 ---
 
-## Dicas
+## 3. Dicas
 
-### Mensagem de commit
+### 3.1 Mensagem de commit
 
 <a href="https://vidadeprogramador.com.br/uploads/2017/07/tirinha1713.png"><img src="https://vidadeprogramador.com.br/uploads/2017/07/tirinha1713.png" alt="Conversa entre dois desenvolvedores sobre mensagem de commit" title="git blame alonso" width="500" target="_blank" /></a>
 
@@ -51,9 +66,10 @@ Uma forma seria o formato do **Commit Amigão**:
 
 <small>Fonte: <a href="https://github.com/BeeTech-global/bee-stylish/tree/master/commits" target="_blank">Guia do Commit Amigão</a> 🇧🇷</small>
 
-### Emojis em commits
+### 3.2 Emojis em commits
 
 Exemplo de mensagens de commit contendo emoji:
+
 <img src="./img/emoji-commit.png" width="500">
 
 <small>Fonte: <a href="https://medium.com/brainny-smart-solutions/padroniza%C3%A7%C3%A3o-de-commits-com-gitmoji-ef0af535f3a4" target="_blank">Medium</a> 🇧🇷</small>
