@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #ffe534;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1,
+.collaborator {
+  text-align: center;
+  margin-top: 24px;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.collaborator img {
+  border-radius: 50%;
+}
