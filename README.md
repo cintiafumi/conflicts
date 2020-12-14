@@ -61,4 +61,25 @@ Exemplo de mensagens de commit contendo emoji:
 Guia de emojis para cada tipo de commit:
 <img src="./img/gitmoji.png" width="500">
 
+| Imagem                | GMF shortcode           | Quando usar                                          |
+| --------------------- | ----------------------- | ---------------------------------------------------- |
+| :art:                 | `:art:`                 | Melhorar a estrutura / formato do código.            |
+| :zap:                 | `:zap:`                 | Melhorar desempenho.                                 |
+| :fire:                | `:fire:`                | Remover código ou arquivos.                          |
+| :bug:                 | `:bug:`                 | Corrigir um bug.                                     |
+| :ambulance:           | `:ambulance:`           | Hotfix crítico.                                      |
+| :sparkles:            | `:sparkles:`            | Introduzir novas funcionalidades.                    |
+| :rocket:              | `:rocket:`              | Coisas de deploy.                                    |
+| :lipstick:            | `:lipstick:`            | Adicionar ou atualizar UI e arquivos de estilização. |
+| :tada:                | `:tada:`                | Início de um projeto.                                |
+| :white_check_mark:    | `:white_check_mark:`    | Adicionar ou atualizar testes.                       |
+| :bookmark:            | `:bookmark:`            | Release / Version tags.                              |
+| :rotating_light:      | `:rotating_light:`      | Corrigir compiler / warnings de linter.              |
+| :construction:        | `:construction:`        | Trabalho em andamento (WIP).                         |
+| :green_heart:         | `:green_heart:`         | Corrigir build de CI.                                |
+| :arrow_down:          | `:arrow_down:`          | Downgrade de dependências.                           |
+| :up:                  | `:up:`                  | Upgrade de dependências.                             |
+| :pushpin:             | `:pushpin:`             | Fixar as dependências em versões específicas.        |
+| :construction_worker: | `:construction_worker:` | Adicionar ou atualizar sistema de build de CI.       |
+
 <small>Fonte: <a href="https://gitmoji.dev/" target="_blank">Gitmoji</a> 🇺🇸</small>
