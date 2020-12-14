@@ -1,6 +1,6 @@
 # Git
 
-<img src="./img/version-control-amico.png" alt="Representação de árvore de controle de versionamento de uma desenvolvedora" width="300">
+<img src="./img/version-control-amico.png" alt="Representação de árvore de controle de versionamento de uma desenvolvedora" width="300" style="display: block; margin: 0 auto;">
 
 [1. Fluxo de trabalho](#fluxo-de-trabalho)
 
@@ -15,7 +15,7 @@
 <a href="https://youtu.be/w3jLJU7DT5E" target="_blank">Vídeo GitHub :octocat:</a>
 <small> Idioma: 🇺🇸 | Legenda: 🇧🇷</small>
 
-<img src="./img/gitflow.png" alt="git flow">
+<img src="./img/gitflow.png" alt="git flow" width="500">
 
 <small>Fonte: <a href="https://codigomaromba.com/2019/01/02/git-gitflow-usar-ou-nao-usar/" target="_blank">Código Maromba</a> 🇧🇷</small>
 
@@ -23,7 +23,7 @@
 
 ## Conflitos
 
-<img src="./img/edit-conflict.png" alt="A representation of an edit conflict">
+<img src="./img/edit-conflict.png" alt="A representation of an edit conflict" width="500">
 
 <small>Fonte: <a href="https://en.wikipedia.org/wiki/Edit_conflict" target="_blank">Wikipedia</a></small>
 
