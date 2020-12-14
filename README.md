@@ -62,25 +62,28 @@ Guia de emojis para cada tipo de commit:
 
 <img src="./img/gitmoji.png" width="500">
 
-| Imagem                | GMF shortcode           | Quando usar                                          |
-| --------------------- | ----------------------- | ---------------------------------------------------- |
-| :art:                 | `:art:`                 | Melhorar a estrutura / formato do código.            |
-| :zap:                 | `:zap:`                 | Melhorar desempenho.                                 |
-| :fire:                | `:fire:`                | Remover código ou arquivos.                          |
-| :bug:                 | `:bug:`                 | Corrigir um bug.                                     |
-| :ambulance:           | `:ambulance:`           | Hotfix crítico.                                      |
-| :sparkles:            | `:sparkles:`            | Introduzir novas funcionalidades.                    |
-| :rocket:              | `:rocket:`              | Coisas de deploy.                                    |
-| :lipstick:            | `:lipstick:`            | Adicionar ou atualizar UI e arquivos de estilização. |
-| :tada:                | `:tada:`                | Início de um projeto.                                |
-| :white_check_mark:    | `:white_check_mark:`    | Adicionar ou atualizar testes.                       |
-| :bookmark:            | `:bookmark:`            | Release / Version tags.                              |
-| :rotating_light:      | `:rotating_light:`      | Corrigir compiler / warnings de linter.              |
-| :construction:        | `:construction:`        | Trabalho em andamento (WIP).                         |
-| :green_heart:         | `:green_heart:`         | Corrigir build de CI.                                |
-| :arrow_down:          | `:arrow_down:`          | Downgrade de dependências.                           |
-| :up:                  | `:up:`                  | Upgrade de dependências.                             |
-| :pushpin:             | `:pushpin:`             | Fixar as dependências em versões específicas.        |
-| :construction_worker: | `:construction_worker:` | Adicionar ou atualizar sistema de build de CI.       |
+| Imagem                      | GMF shortcode                 | Quando usar                                              |
+| --------------------------- | ----------------------------- | -------------------------------------------------------- |
+| :art:                       | `:art:`                       | Melhorar a estrutura / formato do código.                |
+| :zap:                       | `:zap:`                       | Melhorar desempenho.                                     |
+| :fire:                      | `:fire:`                      | Remover código ou arquivos.                              |
+| :bug:                       | `:bug:`                       | Corrigir um bug.                                         |
+| :ambulance:                 | `:ambulance:`                 | Hotfix crítico.                                          |
+| :sparkles:                  | `:sparkles:`                  | Introduzir novas funcionalidades.                        |
+| :memo:                      | `:memo:`                      | Adicionar ou atualizar documentação.                     |
+| :rocket:                    | `:rocket:`                    | Coisas de deploy.                                        |
+| :lipstick:                  | `:lipstick:`                  | Adicionar ou atualizar UI e arquivos de estilização.     |
+| :tada:                      | `:tada:`                      | Início de um projeto.                                    |
+| :white_check_mark:          | `:white_check_mark:`          | Adicionar ou atualizar testes.                           |
+| :rotating_light:            | `:rotating_light:`            | Corrigir compiler / warnings de linter.                  |
+| :construction:              | `:construction:`              | Trabalho em andamento (WIP).                             |
+| :recycle:                   | `:recycle:`                   | Refatoração de código.                                   |
+| :poop:                      | `:poop:`                      | Escrita de código ruim que precisa ser melhorado depois. |
+| :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | Merge de branches.                                       |
+| :package:                   | `:package:`                   | Adicionar ou atualizar arquivos e pacotes compilados.    |
+| :card_file_box:             | `:card_file_box:`             | Realizar mudanças no banco de dados.                     |
+| :children_crossing:         | `:children_crossing:`         | Melhorar usabilidade / UX                                |
+| :iphone:                    | `:iphone:`                    | Trabalhar no design responsivo.                          |
+| :clow_face:                 | `:clow_face:`                 | Adicionar mocks.                                         |
 
 <small>Fonte: <a href="https://gitmoji.dev/" target="_blank">Gitmoji</a> 🇺🇸</small>
