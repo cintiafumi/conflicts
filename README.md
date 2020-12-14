@@ -84,6 +84,6 @@ Guia de emojis para cada tipo de commit:
 | :card_file_box:             | `:card_file_box:`             | Realizar mudanças no banco de dados.                     |
 | :children_crossing:         | `:children_crossing:`         | Melhorar usabilidade / UX                                |
 | :iphone:                    | `:iphone:`                    | Trabalhar no design responsivo.                          |
-| :clow_face:                 | `:clow_face:`                 | Adicionar mocks.                                         |
+| :clown_face:                | `:clown_face:`                | Adicionar mocks.                                         |
 
 <small>Fonte: <a href="https://gitmoji.dev/" target="_blank">Gitmoji</a> 🇺🇸</small>
