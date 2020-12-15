@@ -19,10 +19,18 @@ h1,
   margin-top: 24px;
 }
 
+.collaborator {
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 24px;
+}
+
 #root {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 24px;
 }
 
 .collaborator img {
