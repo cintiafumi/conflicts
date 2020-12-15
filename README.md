@@ -36,8 +36,6 @@
 
 ## 2.1 Como resolver
 
-<a href="http://www.reprograma.com.br/meetup/assets/docs/Jun02-conflitos-no-git.pdf" target="_blank">Apresentação da Oficina</a>
-
 <img src="./img/edit-conflict.png" alt="A representation of an edit conflict" width="500">
 
 <small>Fonte: <a href="https://en.wikipedia.org/wiki/Edit_conflict" target="_blank">Wikipedia</a></small>
